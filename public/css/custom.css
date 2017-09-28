@@ -9,7 +9,7 @@
 }
 
 .red-text {
-  color: #F44336
+  color: #FF5722
 }
 
 .green-text {
@@ -18,4 +18,8 @@
 
 .blue-text {
   color: #80D8FF
+}
+
+.yellow-text {
+  color: #FFC107
 }
