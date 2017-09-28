@@ -1,0 +1,21 @@
+.profile_picture {
+  width: 100px;
+  height: 100px;
+  box-shadow: 10px 10px 38px #111111 ;
+}
+
+.cyan-text {
+  color: #18FFFF
+}
+
+.red-text {
+  color: #F44336
+}
+
+.green-text {
+  color: #64DD17
+}
+
+.blue-text {
+  color: #80D8FF
+}
