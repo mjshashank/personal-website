@@ -1,3 +1,3 @@
 # mjshashank.xyz
 
-> A simple portfolio website for myself.
+> A simple portfolio website.
