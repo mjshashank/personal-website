@@ -1,3 +1,3 @@
-# mjshashank.xyz
+# mjshashank.com
 
-> A simple portfolio website.
+> A simple personal website!
