@@ -1,21 +1,40 @@
+body {
+  background-color: #282c34;
+}
+
 .profile_picture {
   width: 100px;
   height: 100px;
   box-shadow: 10px 10px 38px #111111 ;
+  vertical-align: middle;
+  margin-top: 35%;
+}
+
+.normal-text {
+  font-family: monospace;
+  color: #C2C7D0;
+  text-align: justify;
+  text-justify: inter-word;
+  margin-bottom: 35px;
 }
 
 .red-text {
-  color: #d24d57
+  color: #FE6B64
 }
 
 .green-text {
-  color: #3cb572
+  color: #77DD77
 }
 
 .blue-text {
-  color: #34b9db
+  color: #6ac7e6
 }
 
 .yellow-text {
-  color: #e7903c
+  color: #fdd84c
+}
+
+.contact-link {
+  color: #C2C7D0;
+  text-decoration: underline;
 }
