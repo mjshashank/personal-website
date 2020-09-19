@@ -1,40 +1,23 @@
 body {
-  background-color: #282c34;
+  background-color: #f8f9fa;
+  color: #212529;
 }
 
 .profile_picture {
   width: 100px;
   height: 100px;
-  box-shadow: 10px 10px 38px #111111 ;
+  box-shadow: 10px 10px 38px #e9ecef;
   vertical-align: middle;
-  margin-top: 35%;
+  margin-top: 80px;
 }
 
-.normal-text {
+.content {
   font-family: monospace;
-  color: #C2C7D0;
   text-align: justify;
   text-justify: inter-word;
-  margin-bottom: 35px;
 }
 
-.red-text {
-  color: #FE6B64
-}
-
-.green-text {
-  color: #77DD77
-}
-
-.blue-text {
-  color: #6ac7e6
-}
-
-.yellow-text {
-  color: #fdd84c
-}
-
-.contact-link {
-  color: #C2C7D0;
+.link {
+  color: #212529;
   text-decoration: underline;
 }
