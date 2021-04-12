@@ -13,11 +13,11 @@ body {
 
 .content {
   font-family: monospace;
+  line-height: 25px;
   text-align: justify;
-  text-justify: inter-word;
 }
 
 .link {
-  color: #212529;
+  color: #023e8a;
   text-decoration: underline;
 }
